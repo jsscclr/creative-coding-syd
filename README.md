@@ -1,5 +1,5 @@
-# Creative Coding Sydney
-Submit an issue if you have a talk or talk request :)
+# Creative Coding Sydney Talk Ideas
+[Submit an pull request](https://github.com/jsscclr/creative-coding-syd/edit/master/README.md) if you have a talk or talk request :)
 
 ## Talk Ideas 
 - Approaches / projects that solve conventional problems in a novel way
